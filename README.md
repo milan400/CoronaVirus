@@ -4,7 +4,7 @@
 
 1. Frontened: HTML
 2. Backened: Python, Streamlit
-3. IDE: Jupyter Notebook(Analysis), SubLime Text(App Building)
+3. IDE: Amazon SageMaker, Jupyter Notebook(Analysis), Sublime Text(App Building)
 
 # Steps to Run
 
