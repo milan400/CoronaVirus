@@ -29,5 +29,8 @@ b. Web App
 
 <img src="https://github.com/milan400/CoronaVirus/blob/main/images/webapp.png"/>
 
+# Web Application Working
+
+<img src="https://github.com/milan400/CoronaVirus/blob/main/images/webpp.png"/>
 
 Video regarding the working of Web App is kept in the folder
