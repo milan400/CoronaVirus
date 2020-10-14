@@ -22,10 +22,12 @@ b. Web App
 1. Model Building
 
 <img src="https://github.com/milan400/CoronaVirus/blob/main/images/modelbuilding.png"/>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 2. Web Application
 
 <img src="https://github.com/milan400/CoronaVirus/blob/main/images/webapp.png"/>
+
 
 Video regrading the working of Web App is kept in the folder
