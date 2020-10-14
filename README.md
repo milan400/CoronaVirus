@@ -3,7 +3,7 @@
 # Technology Being Used:
 
 1. Frontened: HTML
-2. Backened: Python, Streamlit
+2. Backened: Python, Streamlit, Sklearn
 3. IDE: Amazon SageMaker, Jupyter Notebook(Analysis), Sublime Text(App Building)
 
 # Steps to Run
