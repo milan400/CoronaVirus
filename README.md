@@ -30,4 +30,4 @@ b. Web App
 <img src="https://github.com/milan400/CoronaVirus/blob/main/images/webapp.png"/>
 
 
-Video regrading the working of Web App is kept in the folder
+Video regarding the working of Web App is kept in the folder
